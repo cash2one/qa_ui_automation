@@ -1,1 +1,2 @@
-# qa_ui_automation
+# jkb-automation
+ui and interface automation 
